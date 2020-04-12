@@ -4,7 +4,7 @@
       <h1>Combina Nome</h1>
       <br />
       <h6 class="text-secondary">
-        Gerador de nomes utilizando Vue.js, GraphQL e Node
+        Gerador de nomes utilizando Vue.js
       </h6>
     </div>
     <div id="main">

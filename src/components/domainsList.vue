@@ -80,8 +80,8 @@ export default {
     return {
       prefix: "",
       sufix: "",
-      prefixes: ["Air", "Jet", "Flight"],
-      sufixes: ["Hub", "Station", "Mart"],
+      prefixes: [],
+      sufixes: [],
     };
   },
   methods: {
