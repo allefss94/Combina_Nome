@@ -1,9 +1,5 @@
 <template>
   <div>
-    <!-- <h5>
-      Nomes
-      <span class="badge badge-info">{{ items.length }}</span>
-    </h5> -->
     <div class="card">
       <div class="card-body">
         <ul class="list-group">
@@ -27,7 +23,7 @@
             v-model="item"
             type="text"
             class="form-control"
-            placeholder="Digite um Prefixo"
+            placeholder="Digite um nome ou sobrenome desejado"
           />
           <div class="input-group-append">
             <button class="btn btn-info" @click="addItem(item)">
