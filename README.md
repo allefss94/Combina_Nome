@@ -1,24 +1,6 @@
-# quiz_ebd
+# Combina Nome -- https://combinanome.netlify.app/
 
-## Project setup
-```
-yarn install
-```
+Um combinador de Nomes e Sobrenomes, ao fim veja os resultados possiveis e ainda seja redirecionado a um dicionario de nomes.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Tecnologias utilizadas
+Front-end feito com Vue CLI, HTML, CSS.
